@@ -23,4 +23,6 @@ What it basically does is that it counts the number of times each answer appears
 
 <strong>Note</strong> - The script is developed to run on a Windows Machine. However, the script is still compatible with Unix. Just change the directory of the Pytesseract OCR.
 
+Add all the modules by entering "pip install -r Requirements.txt" in the terminal.
+
 Windows users need to install PyTesseract as a standalone executable. <underline>(Add the module + Install as exe too)</underline>
