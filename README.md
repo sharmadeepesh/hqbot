@@ -10,7 +10,7 @@ This script OCRs the game real time for question and answers. Parses the generat
 The script is still in making and takes more time to process than needed. This bot is  approximately 50-60% efficient in answering the questions.
 
 REQUIREMENTS -
-pyautogui 
+pyautogui <br>
 Pillow / PIL
 Pytesseract                                                                                    
 googlesearch
