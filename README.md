@@ -26,3 +26,6 @@ What it basically does is that it counts the number of times each answer appears
 Add all the modules by entering "pip install -r Requirements.txt" in the terminal.
 
 Windows users need to install PyTesseract as a standalone executable. <underline>(Add the module + Install as exe too)</underline>
+Linux users need to download "tesseract-ocr" package using their system's package manager. </br>
+<code>sudo apt-get install tesseract-ocr</code></br>
+Linux users must also comment out the "Pytesseract Path Line from the code" otherwise it would raise an error.
